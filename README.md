@@ -10,3 +10,4 @@ Collection of pure js algorithms.
 1. [merge-sort.js](merge-sort.js): Merget sort
 1. [selection-sort.js](selection-sort.js): Selection sort
 1. [quick-sort.js](quick-sort.js): Quick sort
+1. [max-sub-array-sum.js](max-sub-array-sum.js): Maximum Sub Array Sum
