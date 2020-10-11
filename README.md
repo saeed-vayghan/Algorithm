@@ -1,7 +1,12 @@
 # Algorithm
 Collection of pure js algorithms.
 
-##### Tip: Default sort() in JavaScript uses insertion sort by V8 Engine of Chrome and Merge sort by Mozilla Firefox and Safari. It is not suitable if you need to sort large number of elements. So, the solution is to use Quick sort for large dataset. 
+##### Tip: JS Default sort()
+In JavaScript uses insertion sort by V8 Engine of Chrome and Merge sort by Mozilla Firefox and Safari. It is not suitable if you need to sort large number of elements. So, the solution is to use Quick sort for large dataset. 
+
+##### Dynamic programming / memoization 
+solves a problem by dividing it into smaller subproblems. This is very similar to the divide-and-conquer algorithm solving technique. The major difference, however, is that dynamic programming solves a subproblem only once.
+It then stores the result of this subproblem and later reuses this result to solve other related subproblems. This process is known as memoization.
 
 ## Basic
 
