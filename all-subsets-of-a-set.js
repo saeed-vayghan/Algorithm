@@ -15,6 +15,7 @@ size: 2 pow 3 = 8
 */
 
 
+// Solution #1
 const allSubsets = (arr) => {
   recursive(arr, [], 0);
 }
@@ -34,6 +35,30 @@ const recursive = (arr, subSet, i) => {
 }
 
 
-const arr =  [1, 2, 3];
+// Solution #2
+const powerSet = (array) => {
+  const result = [[]];
 
-allSubsets(arr);
+  for (let val of array) {
+
+    const length = result.length;
+
+    for (let i = 0; i < length; i ++){
+
+      // Make a clone of the val at index i  
+      // let temp = result[i].slice(0);
+      let temp = JSON.parse(JSON.stringify(result[i]));
+
+      temp.push(val);
+      result.push(temp);
+    }
+  }
+
+  return result;
+}
+
+
+
+
+allSubsets([1, 2, 3]);
+powerSet([1, 2, 3]);
