@@ -8,7 +8,7 @@ Sets: {7, 12} / {2, 5, 12}
 */
 
 
-const returnVal = (arr, x, i, memo) => {
+const recursive = (arr, x, i, memo) => {
   const memoKey = `${x}:${i}`;
 
   if ( memo[key] !=== undefined ) {
@@ -31,11 +31,11 @@ const returnVal = (arr, x, i, memo) => {
   let returnVal = 0;
 
   if ( x < arr[i] ) {
-    returnVal = recursice(arr, x, i-1);
+    returnVal = recursive(arr, x, i-1);
 
   } else {
 
-    returnVal = recursice(arr, x, i-1) + recursice(arr, x - arr[i], i-1);
+    returnVal = recursive(arr, x, i-1) + recursive(arr, x - arr[i], i-1);
   }
 
   memo[key] = returnVal;
@@ -46,5 +46,5 @@ const returnVal = (arr, x, i, memo) => {
 const findSets = (arr, x) => {
   const memo = {};
 
-  return recursice(arr, x, arr.length - 1, memo);
+  return recursive(arr, x, arr.length - 1, memo);
 }
