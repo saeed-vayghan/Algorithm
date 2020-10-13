@@ -24,6 +24,7 @@ It then stores the result of this subproblem and later reuses this result to sol
 
 
 ## More To Do
+1. [finding-k-smallest-items.js](finding-k-smallest-items.js): Finding the K smallest items.
 1. RANDOMLY Reorder Array in O(N)?
 1. Find pair of numbers in two arrayas that their sum is closet to a specific target!
 1. Tower Hopper Problem!
