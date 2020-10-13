@@ -8,7 +8,7 @@ Sets: {7, 12} / {2, 5, 12}
 */
 
 
-const findSets = (arr, x, i, memo) => {
+const returnVal = (arr, x, i, memo) => {
   const memoKey = `${x}:${i}`;
 
   if ( memo[key] !=== undefined ) {
