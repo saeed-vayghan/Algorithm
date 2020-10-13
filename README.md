@@ -20,6 +20,8 @@ It then stores the result of this subproblem and later reuses this result to sol
 1. [lowest-common-ancestor.js](lowest-common-ancestor.js): Lowest common Ancestor
 1. [ways-to-decode-message.js](ways-to-decode-message.js): How many ways to decode a message?
 1. [find-sets-of-numbers-adds-up-to-x.js](find-sets-of-numbers-adds-up-to-x.js): Dynamic Programming, Find Sets Of Numbers That Add Up To X
+1. [all-subsets of-a-set.js](all-subsets of-a-set.js): All possible subsets of a set
+
 
 
 ## More To Do
