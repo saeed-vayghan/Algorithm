@@ -20,3 +20,9 @@ It then stores the result of this subproblem and later reuses this result to sol
 1. [lowest-common-ancestor.js](lowest-common-ancestor.js): Lowest common Ancestor
 1. [ways-to-decode-message.js](ways-to-decode-message.js): How many ways to decode a message?
 1. [find-sets-of-numbers-adds-up-to-x.js](find-sets-of-numbers-adds-up-to-x.js): Dynamic Programming, Find Sets Of Numbers That Add Up To X
+
+
+## More To Do
+1. RANDOMLY Reorder Array in O(N)?
+1. Find pair of numbers in two arrayas that their sum is closet to a specific target!
+1. Tower Hopper Problem!
