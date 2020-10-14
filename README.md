@@ -24,6 +24,7 @@ It then stores the result of this subproblem and later reuses this result to sol
 1. [detect-cycles-in-linked-list.js](detect-cycles-in-linked-list.js): Detect cycles in a given Linked List
 1. [is-valid-binary-trree.js](is-valid-binary-trree.js): Check if a Binary Tree is a valid one.
 1. [pair-sums.js](pair-sums.js): Pair Sums
+1. [rotational-cipher.js](rotational-cipher.js): Rotational Cipher
 
 
 ## More To Do
