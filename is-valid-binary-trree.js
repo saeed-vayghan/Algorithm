@@ -9,6 +9,26 @@ Node: {
   right Node
 }
 
+
+        root(60)
+      50            70
+  30      55     65     80
+25   35                     90
+
+
+Rules:
+  50 must be smaller than root;
+  70 must be greater than root;
+
+  30 < 50
+  25 < 30
+  50 < 55 < root
+  30 < 35 < 50
+
+  80 > 70
+  90 > 80
+  root < 65 < 70
+
 */
 
 
