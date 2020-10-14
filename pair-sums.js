@@ -5,8 +5,6 @@
 */
 
 function numberOfWays(arr, k) {
-  // Write your code here
-
   const map = {};
   
   for (const val of arr) {
@@ -38,8 +36,6 @@ function numberOfWays(arr, k) {
 }
 
 function alternative(arr, k) {
-  // Write your code here
-
   let result = 0;
   
   for ( let i = 0; i < arr.length; i ++ ) {
