@@ -25,6 +25,7 @@ It then stores the result of this subproblem and later reuses this result to sol
 1. [is-valid-binary-trree.js](is-valid-binary-trree.js): Check if a Binary Tree is a valid one.
 1. [pair-sums.js](pair-sums.js): Pair Sums
 1. [rotational-cipher.js](rotational-cipher.js): Rotational Cipher
+1. [contiguous-subarrays.js](contiguous-subarrays.js): Contiguous Subarrays
 
 
 ## More To Do
