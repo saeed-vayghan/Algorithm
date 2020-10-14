@@ -22,6 +22,7 @@ It then stores the result of this subproblem and later reuses this result to sol
 1. [find-sets-of-numbers-adds-up-to-x.js](find-sets-of-numbers-adds-up-to-x.js): Dynamic Programming, Find Sets Of Numbers That Add Up To X
 1. [all-subsets-of-a-set.js](all-subsets-of-a-set.js): All possible subsets of a set
 1. [detect-cycles-in-linked-list.js](detect-cycles-in-linked-list.js): Detect cycles in a given Linked List
+1. [is-valid-binary-trree.js](is-valid-binary-trree.js): Check if a Binary Tree is a valid one.
 
 
 ## More To Do
