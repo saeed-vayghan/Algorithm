@@ -9,6 +9,9 @@ solves a problem by dividing it into smaller subproblems. This is very similar t
 It then stores the result of this subproblem and later reuses this result to solve other related subproblems. This process is known as memoization.
 
 ## Basic
+1. Find lonely integer in a list; xor all the values and the lonely integer will be the result.
+
+## Samples
 
 1. [bubble-sort.js](bubble-sort.js): Bubble sort
 1. [insertion-sort.js](insertion-sort.js): Insertion sort
