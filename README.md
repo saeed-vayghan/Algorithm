@@ -29,6 +29,7 @@ It then stores the result of this subproblem and later reuses this result to sol
 1. [pair-sums.js](pair-sums.js): Pair Sums
 1. [rotational-cipher.js](rotational-cipher.js): Rotational Cipher
 1. [contiguous-subarrays.js](contiguous-subarrays.js): Contiguous Subarrays
+1. [coin-change.js](coin-change.js): Coin Change Problem
 
 
 ## More To Do
