@@ -18,12 +18,6 @@
     So, the answer for the above input is [1, 3, 1, 5, 1]
 */
 
-
-// Add any extra import statements you may need here
-
-
-// Add any helper functions you may need here
-
 function leftHelper(arr, start, end) {
   let counter = 0;
 
