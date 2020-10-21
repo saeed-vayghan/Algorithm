@@ -40,3 +40,4 @@ It then stores the result of this subproblem and later reuses this result to sol
 1. Tower Hopper Problem!
 1. Finding Continuous Median (Max-Min Heap)
 1. Merge K sorter Array (brute force, priority queue, min heap)
+1. Reverse A Singly Linked List
