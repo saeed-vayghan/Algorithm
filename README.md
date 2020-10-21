@@ -32,6 +32,8 @@ It then stores the result of this subproblem and later reuses this result to sol
 1. [contiguous-subarrays.js](contiguous-subarrays.js): Contiguous Subarrays
 1. [coin-change.js](coin-change.js): Coin Change Problem
 1. [recursice-stair-cases.js](recursice-stair-cases.js) Recursice StairCases
+1. [reverse-singley-linked-list.js](reverse-singly-linked-list.js) Reverse A Singly Linked List
+
 
 ## More To Do
 1. [finding-k-smallest-items.js](finding-k-smallest-items.js): Finding the K smallest items.
@@ -40,4 +42,3 @@ It then stores the result of this subproblem and later reuses this result to sol
 1. Tower Hopper Problem!
 1. Finding Continuous Median (Max-Min Heap)
 1. Merge K sorter Array (brute force, priority queue, min heap)
-1. Reverse A Singly Linked List
