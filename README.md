@@ -39,4 +39,4 @@ It then stores the result of this subproblem and later reuses this result to sol
 1. Find pair of numbers in two arrayas that their sum is closet to a specific target!
 1. Tower Hopper Problem!
 1. Finding Continuous Median (Max-Min Heap)
-1. Merge K sorter Array
+1. Merge K sorter Array (brute force, priority queue, min heap)
