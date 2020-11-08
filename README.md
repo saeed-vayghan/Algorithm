@@ -31,7 +31,7 @@ It then stores the result of this subproblem and later reuses this result to sol
 1. [rotational-cipher.js](rotational-cipher.js): Rotational Cipher
 1. [contiguous-subarrays.js](contiguous-subarrays.js): Contiguous Subarrays
 1. [coin-change.js](coin-change.js): Coin Change Problem
-1. [recursice-stair-cases.js](recursice-stair-cases.js) Recursice StairCases
+1. [recursive-stair-cases.js](recursive-stair-cases.js) Recursice StairCases
 1. [reverse-singley-linked-list.js](reverse-singly-linked-list.js) Reverse A Singly Linked List
 
 
